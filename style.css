@@ -1,0 +1,273 @@
+	body, h2, img, h1, p, header{margin:0;}
+		
+		section img{display: block; width:100%; margin:auto; margin-top: 200px;}
+		section{width:900px; margin:auto;}
+
+
+		p{font-family: 'Noto Serif KR', serif;
+		margin-top:200px;
+		margin-bottom:200px;
+			line-height: 1.9;
+			text-align: center;
+			font-weight: 500;
+			word-spacing: -1px;
+			font-size: 1.1em;
+
+
+		}
+
+		
+
+		.left{width: 70%;
+			margin-right: 450px;}
+
+			.right{width: 70%;
+			margin-left: 270px;}
+
+			.outside_p{font-family: 'Noto Serif KR', serif;
+			margin-top: 400px;
+			margin-bottom: 400px;
+			 line-height: 1.9;
+			text-align: center;
+			font-weight: 500;
+			word-spacing: -1px;
+			font-size: 1.3em;}
+
+
+		
+
+			.bg-header{
+ 		width: 100%;
+ 		height:700px;
+ 		
+ 		background:url('img/studio/1.jpg');
+ 		background-size: 100%;
+ 		background-attachment: fixed;
+ 		-webkit-animation:animate_background 20s;
+ 		animation:animate_background 20s ;
+ 		animation-iteration-count: infinite;}
+ 		
+ 		.bg-header h1 {color:white; 
+ 			font-size: 25px; 
+ 			text-align:center;
+ 			padding-top: 270px;
+ 			display:block;
+ 			line-height: 1.6;
+
+
+ 	font-weight: 600;
+ 	font-family: 'Noto Serif KR', serif;}
+ 	
+
+
+ 		@-webkit-keyframes animate_background{
+ 			0% {background-position: 0% 0%}
+ 			50% {background-position: 0% 100%;}
+ 			100% {background-position: 0% 0%;}
+ 		}
+
+ 		@keyframes animate_background{
+ 			0% {background-position: 0% 0%}
+ 			50% {background-position: 0% 100%;}
+ 			100% {background-position: 0% 0%;}
+ 		}
+
+			
+
+
+			.logo1{display: block; 
+				width:10%; 
+				margin:auto; 
+				margin-top: 450px;
+				margin-bottom: 200px;}
+
+
+
+
+
+
+				.right_p{
+					font-family: 'Noto Serif KR', serif;
+		margin-top:100px;
+		margin-bottom:200px;
+			line-height: 1.9;
+			text-align: right;
+			font-weight: 500;
+			word-spacing: -1px;
+			font-size: 1.1em;
+
+
+					
+				}
+
+
+
+
+
+
+			.left_p{
+					font-family: 'Noto Serif KR', serif;
+		margin-top:100px;
+		margin-bottom:200px;
+			line-height: 1.9;
+			text-align:left;
+			font-weight: 500;
+			word-spacing: -1px;
+			font-size: 1.1em;}
+
+
+
+
+
+
+
+		 .flex{display:flex;
+width:900px; margin:0;}
+
+
+.flex_text_left{padding-top:300px;
+		font-family: 'Noto Serif KR', serif;
+		
+		
+			line-height: 1.9;
+			text-align:left;
+			font-weight: 500;
+			word-spacing: -1px;
+			font-size: 1.1em;}
+
+.flex_image{width:60%;
+margin-left:70px;}
+
+
+
+.flex2_text_left{padding-top:450px;
+	margin-right:100px;
+	margin-left:20px;
+		font-family: 'Noto Serif KR', serif;
+		
+		
+			line-height: 1.9;
+			text-align:left;
+			font-weight: 500;
+			word-spacing: -1px;
+			font-size: 1.1em;}
+
+.flex2_image{width:70%;
+margin:right;}
+
+
+
+.flex_text_right{padding-top:370px;
+		font-family: 'Noto Serif KR', serif;
+		
+		
+			line-height: 1.9;
+			text-align:right;
+			font-weight: 500;
+			word-spacing: -1px;
+			font-size: 1.1em;}
+
+
+
+
+
+.flex_image2{width:60%;
+margin-right:70px;}
+
+
+
+
+.flex_image3{width:45%;
+margin-right:70px;
+margin-bottom: 200px;}
+
+
+
+.flex_text_right2{padding-top:200px;
+	
+		font-family: 'Noto Serif KR', serif;
+		
+		
+			line-height: 1.9;
+			text-align:left;
+			font-weight: 500;
+			word-spacing: -1px;
+			font-size: 1.1em;}
+
+
+
+
+
+.bg-header2{
+ 		width: 100%;
+ 		height:700px;
+ 		
+ 		background:url('img/studio/10.jpg');
+ 		background-size: 100%;
+ 		background-attachment: fixed;
+ 		-webkit-animation:animate_background 8s;
+ 		animation:animate_background 8s ;
+ 		animation-iteration-count: infinite;}
+ 		
+ 		.bg-header2 h1 {color:white; 
+ 			font-size: 25px; 
+ 			text-align:center;
+ 			padding-top: 270px;
+ 			display:block;
+ 			line-height: 1.6;
+
+
+ 	font-weight: 600;
+ 	font-family: 'Noto Serif KR', serif;}
+ 	
+
+
+ 		@-webkit-keyframes animate_background{
+ 			0% {background-position: 0% 0%}
+ 			50% {background-position: 0% 100%;}
+ 			100% {background-position: 0% 0%;}
+ 		}
+
+ 		@keyframes animate_background{
+ 			0% {background-position: 0% 0%}
+ 			50% {background-position: 0% 100%;}
+ 			100% {background-position: 0% 0%;}
+ 		}
+
+ 		.video {margin-top: 200px;
+ 			
+ 			margin-left:90px;
+ 			width:10%;}
+
+
+ 			footer {margin:0;
+ 				}
+
+ 				footer p{font-family: 'Noto Serif KR', serif;
+		
+			line-height: 1.9;
+			text-align: center;
+			font-weight: 500;
+			word-spacing: -1px;
+			font-size: 0.7em;}
+
+
+
+			nav{background: white; height:100px;
+position: sticky;
+top:0;
+width: 100%;
+border-bottom:1px solid black;
+
+}
+
+
+			
+
+
+
+
+
+
+
+
